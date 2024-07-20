@@ -11,4 +11,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     twrp_mdh50lm-user \
     twrp_mdh50lm-userdebug \
-    twrp_mdh50lm-eng￼Enter
+    twrp_mdh50lm-eng
